@@ -1,0 +1,11 @@
+The complete steps are
+	1. First create a file in the local repository
+		- touch <file_name>
+	2. Second do the changes like adding data
+		- vim <file_name>
+	3. Add the file to local repository
+		- git add <file_name>
+	4. commit the file 
+		- git commit -m "comment"
+	5. push the file to github
+		- git push
